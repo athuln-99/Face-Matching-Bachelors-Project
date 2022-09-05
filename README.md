@@ -44,7 +44,7 @@ All the trained Siamese FaceNet and Siamese VGG Face models: https://www.dropbox
 
 Weights for the pre-trained FaceNet (used in training script files): https://www.dropbox.com/s/hv2qjafdpt0ojn2/facenet_weights.h5?dl=0
 
-Weights for the pre-trained VGG Face (used in training script files):
+Weights for the pre-trained VGG Face (used in training script files): https://drive.google.com/file/d/1b9Qtsc4toH8D-I3Vu8K6LblM0RfAtZWI/view?usp=sharing
 
 Link to cropped LFW dataset: https://www.dropbox.com/s/euenbwl8cmu12xi/entire_lfw_cropped_faces.zip?dl=0
 
